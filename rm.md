@@ -4,6 +4,6 @@ sdalfjadslfadlfjadls``
 user2 modified`
 pod repo add PrivatePods https://github.com/ModulizationDemo/PrivatePods.git
 adfsadfadsasdfad;fajkdsfyou knonwnothing jon snow  ssss.
-pod update
+pod update by user1
 user 1 modified.
 ```
